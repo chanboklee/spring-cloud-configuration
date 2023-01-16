@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:tcp://localhost/~/test
     username: sa
-    password: '{cipher}AQBo3YAddevyiFxMnsAFYdQFmMklm52QcUvYPFrLgcF0YdGRBdW3kyEepV5y4CLP8i2RM0d46RQ2zrFrazNTKmPxgz+PMY28N4K6QDif6hV5nAyq8OIqTHwvqL9EZHXotFCRQi0vcVKtye/Vri7kBqm96S0Y0Sc1sq5+Yza6hlqrZ0PlXm7lulB5Qar8y0t8X3j3Vr2ZW/BWrMRxYABs+fDZSpixznlwy951qUNPlHjc5eWoybOe7kLjjcOPUUV9totj5MKdBcoym+nTIHo4LkgIUniGSXTMUAeKLcE5+SFqRK8LSoIiBpQ3VrwRYk0fUjKAsMe46L5hLv0RWDwfV6JES0J5rtIaJYtpd1pKTbdgyuhuQPCrgWIcx7R4tn1rUpQ=
+    password: '{cipher}AQBo3YAddevyiFxMnsAFYdQFmMklm52QcUvYPFrLgcF0YdGRBdW3kyEepV5y4CLP8i2RM0d46RQ2zrFrazNTKmPxgz+PMY28N4K6QDif6hV5nAyq8OIqTHwvqL9EZHXotFCRQi0vcVKtye/Vri7kBqm96S0Y0Sc1sq5+Yza6hlqrZ0PlXm7lulB5Qar8y0t8X3j3Vr2ZW/BWrMRxYABs+fDZSpixznlwy951qUNPlHjc5eWoybOe7kLjjcOPUUV9totj5MKdBcoym+nTIHo4LkgIUniGSXTMUAeKLcE5+SFqRK8LSoIiBpQ3VrwRYk0fUjKAsMe46L5hLv0RWDwfV6JES0J5rtIaJYtpd1pKTbdgyuhuQPCrgWIcx7R4tn1rUpQ='
 
 token:
   expiration_time: 8640000000
